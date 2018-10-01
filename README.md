@@ -4,6 +4,8 @@ This is a workshop series at REP/CP ETHZ where we share our ways of working. The
 
 Contribute by requesting a topic that you would like to hear more about or that you would like to discuss, or by suggesting a topic you could talk about. For a list of upcoming sessions see below.
 
+The workshops take place every other Wednesday 17:00 (provided speaker availability) in the TdLab (CHN K 78).
+
 ## Requested topics
 
 * orcid — what? why? how?
@@ -19,7 +21,10 @@ Contribute by requesting a topic that you would like to hear more about or that 
 
 ## Schedule
 
-Next sessions: tbc
+Next sessions:
+
+* 10 October 2018 -- orcid, what, why, and how (Stefan, tbc)
+* 24 October 2018 -- search anything using Alfred (Tim)
 
 Previous sessions:
 
