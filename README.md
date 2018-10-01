@@ -6,9 +6,24 @@ Contribute by requesting a topic that you would like to hear more about or that 
 
 ## Requested topics
 
+* orcid — what? why? how?
+* text editors
+* Alfred (workflows)
+* literature search engines
+* reference managers (Zotero etc)
+* euler
+* Open Science Framework
+* Zenodo
+
 ## Suggested topics
 
 ## Schedule
+
+Next sessions: tbc
+
+Previous sessions:
+
+* 15 August 2018 -- snakemake (Tim)
 
 ## Still confused?
 
