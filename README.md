@@ -23,7 +23,7 @@ The workshops take place every other Wednesday 17:00 (provided speaker availabil
 
 Next sessions:
 
-* 10 October 2018 -- orcid, what, why, and how (Stefan, tbc)
+* 10 October 2018 -- orcid, what, why, and how (Stefan)
 * 24 October 2018 -- search anything using Alfred (Tim)
 
 Previous sessions:
