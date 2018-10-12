@@ -23,8 +23,9 @@ The workshops take place every other Tuesday 17:00 (provided speaker and topic a
 
 Next sessions:
 
-* 16 October 2018 -- Managing my digital researcher identity (Stefan)
-* 30 October 2018 -- Search anything using Alfred (Tim)
+* 30 October 2018 -- Managing my digital researcher identity (Stefan)
+* 13 November 2018 -- (tbd)
+* 27 November 2018 -- Search anything using Alfred (Tim)
 
 Previous sessions:
 
