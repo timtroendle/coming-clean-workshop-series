@@ -8,9 +8,7 @@ The workshops take place every other Tuesday 17:00 (provided speaker and topic a
 
 ## Requested topics
 
-* orcid — what? why? how?
 * text editors
-* Alfred (workflows)
 * literature search engines
 * reference managers (Zotero etc)
 * euler
@@ -23,12 +21,12 @@ The workshops take place every other Tuesday 17:00 (provided speaker and topic a
 
 Next sessions:
 
-* 30 October 2018 -- Managing my digital researcher identity (Stefan)
 * 13 November 2018 -- Search anything using Alfred (Tim)
 * 27 November 2018 -- tbd (you?)
 
 Previous sessions:
 
+* 30 October 2018 -- Managing my digital researcher identity (Stefan)
 * 15 August 2018 -- snakemake (Tim)
 
 ## Still confused?
