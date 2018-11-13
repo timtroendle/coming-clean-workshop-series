@@ -22,7 +22,7 @@ The workshops take place every other Tuesday 17:00 (provided speaker and topic a
 
 Next sessions:
 
-* 27 November 2018 -- Showdown! Epic battle of the reference managers. (participate and defend yours!)
+* 27 November 2018 -- Showdown! ⚔️ Epic battle of the reference managers. (participate and defend yours!)
 * 11 December 2018 -- tbd (you?)
 
 Previous sessions:
