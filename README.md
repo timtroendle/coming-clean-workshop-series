@@ -17,6 +17,8 @@ The workshops take place every other Tuesday 17:00 (provided speaker and topic a
 
 ## Suggested topics
 
+* password manager and backup (Marc)
+
 ## Schedule
 
 Next sessions:
