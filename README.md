@@ -22,11 +22,11 @@ The workshops take place every other Tuesday 17:00 (provided speaker and topic a
 
 Next sessions:
 
-* 27 November 2018 -- Showdown! ⚔️ Epic battle of the reference managers. (participate and defend yours!)
-* 11 December 2018 -- tbd (you?)
+* 11 December 2018 -- Share your experience: Working away from your desk / remote office (what works, what doesn't)
 
 Previous sessions:
 
+* 27 November 2018 -- Showdown! ⚔️ Epic battle of the reference managers. (participate and defend yours!)
 * 13 November 2018 -- Search anything using Alfred (Tim)
 * 30 October 2018 -- Managing my digital researcher identity (Stefan)
 * 15 August 2018 -- snakemake (Tim)
