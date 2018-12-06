@@ -22,7 +22,7 @@ The workshops take place every other Tuesday 17:00 (provided speaker and topic a
 
 Next sessions:
 
-* 11 December 2018 -- Share your experience: Working away from your desk / remote office (what works, what doesn't)
+* 11 December 2018 -- Working away from your desk / remote office --- what works, what doesn't (Léon and everyone; this time already at 16:30)
 
 Previous sessions:
 
