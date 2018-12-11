@@ -22,10 +22,11 @@ The workshops take place every other Tuesday 17:00 (provided speaker and topic a
 
 Next sessions:
 
-* 11 December 2018 -- Working away from your desk / remote office --- what works, what doesn't (Léon and everyone; this time already at 16:30)
+* 15 January 2019 -- Wrestling with the procrastination beast 👹 and getting things done. (everyone)
 
 Previous sessions:
 
+* 11 December 2018 -- Working away from your desk / remote office --- what works, what doesn't (Léon and everyone; this time already at 16:30)
 * 27 November 2018 -- Showdown! ⚔️ Epic battle of the reference managers. (participate and defend yours!)
 * 13 November 2018 -- Search anything using Alfred (Tim)
 * 30 October 2018 -- Managing my digital researcher identity (Stefan)
