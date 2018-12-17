@@ -24,6 +24,7 @@ Next sessions:
 
 * 17 December 2018 --  Contemplative 🎄🎅 session: How to maximise your brain day (_Prof Prof Lilliestam and everyone_, this time already at 15:00)
 * 15 January 2019 -- to be defined
+* 29 January 2019 -- to be defined (TdLab not available)
 
 Previous sessions:
 
