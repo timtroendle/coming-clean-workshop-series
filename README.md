@@ -10,7 +10,6 @@ The workshops take place every other Tuesday 17:00 (provided speaker and topic a
 
 * text editors
 * literature search engines
-* euler
 * Open Science Framework
 * Zenodo
 
@@ -22,12 +21,11 @@ The workshops take place every other Tuesday 17:00 (provided speaker and topic a
 
 Next sessions:
 
-* 17 December 2018 --  Contemplative 🎄🎅 session: How to maximise your brain day (_Prof Prof Lilliestam and everyone_, this time already at 15:00)
-* 15 January 2019 -- to be defined
-* 29 January 2019 -- to be defined (TdLab not available)
+* 12 February 2019 -- Stop working and let Euler do your job. (_🤖_)
 
 Previous sessions:
 
+* 17 December 2018 --  Contemplative 🎄🎅 session: How to maximise your brain day (_Prof Prof Lilliestam and everyone_, this time already at 15:00)
 * 11 December 2018 -- Working away from your desk / remote office --- what works, what doesn't (_Léon and everyone_; this time already at 16:30)
 * 27 November 2018 -- Showdown! ⚔️ Epic battle of the reference managers. (participate and defend yours!)
 * 13 November 2018 -- Search anything using Alfred (_Tim_)
