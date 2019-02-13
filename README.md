@@ -21,7 +21,7 @@ The workshops take place every other Tuesday 17:00 (provided speaker and topic a
 
 Next sessions:
 
-* 13 February 2019 -- Stop working and let Euler do your job. (_🤖_) (this time Wednesday and we may need to switch to the J kitchen)
+* 15 February 2019 -- Stop working and let Euler do your job. (_🤖_) (this time Friday 14:00 and we may need to switch to the J kitchen)
 
 Previous sessions:
 
