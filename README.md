@@ -4,8 +4,6 @@ This is a workshop series where we share our ways of working. The workshop sessi
 
 Contribute by requesting a topic that you would like to hear more about or that you would like to discuss, or by suggesting a topic you could talk about. For a list of upcoming sessions see below.
 
-The workshops take place every other Tuesday 17:00 (provided speaker and topic availability) in the TdLab (CHN K 78).
-
 ## Requested topics
 
 * text editors
@@ -19,12 +17,13 @@ The workshops take place every other Tuesday 17:00 (provided speaker and topic a
 
 ## Schedule
 
-Next sessions:
+Next session:
 
-* 15 February 2019 -- Stop working and let Euler do your job. (_🤖_) (this time Friday 14:00 and we may need to switch to the J kitchen)
+* 24 Feburary 2022 -- 📄 Writing and styling documents like Gen Z: using Markdown and CSS. (17:00 online, ask _Tim_ for the link)
 
 Previous sessions:
 
+* 15 February 2019 -- Stop working and let Euler do your job. (_🤖_) (this time Friday 14:00 and we may need to switch to the J kitchen)
 * 17 December 2018 --  Contemplative 🎄🎅 session: How to maximise your brain day (_Prof Prof Lilliestam and everyone_, this time already at 15:00)
 * 11 December 2018 -- Working away from your desk / remote office --- what works, what doesn't (_Léon and everyone_; this time already at 16:30)
 * 27 November 2018 -- Showdown! ⚔️ Epic battle of the reference managers. (participate and defend yours!)
